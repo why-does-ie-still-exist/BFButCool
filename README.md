@@ -24,4 +24,4 @@ This control structure is the only control structure used in the `coolinterpret`
 
 I wrote this because I wanted to show that this control structure, combined with some variables, arrays, and basic arithmetic formed a turing-complete language.
 I had strong suspicions it could be done, as the [WHILE language](https://stackoverflow.com/questions/507310/the-while-language) is turing-complete.
-To prove it beyond a shadow of a doubt, i wrote a brianfuck interpreter in it, which itself is turing-complete, making this subset of Java turing-complete.
+To prove it beyond a shadow of a doubt, i wrote a brainfuck interpreter in it, which itself is turing-complete, making this subset of Java turing-complete.
